@@ -1,0 +1,8 @@
+.file-input::-webkit-file-upload-button {
+    background-color:#0d6efd;
+    border-radius: 7px;
+    color: white;
+    text-align: center;
+    font-size: 13pt;
+    border-color: #0d6efd;
+  }
